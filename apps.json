@@ -11,10 +11,23 @@
       "tintColor": "#C6F432",
       "category": "lifestyle",
       "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
+        "entitlements": [
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access"
+        ],
+        "privacy": {
+          "NSHealthShareUsageDescription": "Limen legge da Salute peso, passi, sonno, nutrizione e VO2max per mostrarli accanto ai tuoi allenamenti.",
+          "NSHealthUpdateUsageDescription": "Limen salva in Salute le sedute di allenamento completate."
+        }
       },
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "4",
+          "date": "2026-10-20T13:14:45Z",
+          "downloadURL": "https://github.com/FabWood03/limen-dist/releases/download/v1.0.0-4/limen.ipa",
+          "size": 6641099
+        },
         {
           "version": "1.0.0",
           "buildVersion": "3",
