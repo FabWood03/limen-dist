@@ -12,9 +12,18 @@
       "category": "lifestyle",
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSFaceIDUsageDescription": "Limen usa Face ID per proteggere i tuoi dati di allenamento."
+        }
       },
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "11",
+          "date": "2026-10-21T15:15:16Z",
+          "downloadURL": "https://github.com/FabWood03/limen-dist/releases/download/v1.0.0-11/limen.ipa",
+          "size": 9790036
+        },
         {
           "version": "1.0.0",
           "buildVersion": "9",
