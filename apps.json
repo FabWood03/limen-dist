@@ -13,10 +13,19 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSFaceIDUsageDescription": "Limen usa Face ID per proteggere i tuoi dati di allenamento."
+          "NSCameraUsageDescription": "Limen usa la fotocamera per le foto dei tuoi progressi, che restano solo nell'app.",
+          "NSFaceIDUsageDescription": "Limen usa Face ID per proteggere i tuoi dati di allenamento.",
+          "NSPhotoLibraryUsageDescription": "Limen apre la libreria per scegliere le foto dei tuoi progressi, che restano solo nell'app."
         }
       },
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "14",
+          "date": "2026-10-22T09:19:10Z",
+          "downloadURL": "https://github.com/FabWood03/limen-dist/releases/download/v1.0.0-14/limen.ipa",
+          "size": 10474092
+        },
         {
           "version": "1.0.0",
           "buildVersion": "13",
