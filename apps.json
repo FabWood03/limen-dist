@@ -21,6 +21,13 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "17",
+          "date": "2026-10-22T20:50:21Z",
+          "downloadURL": "https://github.com/FabWood03/limen-dist/releases/download/v1.0.0-17/limen.ipa",
+          "size": 10651513
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "15",
           "date": "2026-10-22T10:21:44Z",
           "downloadURL": "https://github.com/FabWood03/limen-dist/releases/download/v1.0.0-15/limen.ipa",
